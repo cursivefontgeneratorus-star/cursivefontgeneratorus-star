@@ -2,6 +2,29 @@
 
 <!--
 **cursivefontgeneratorus-star/cursivefontgeneratorus-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cursive Font Generator
+
+Free tools and guides for cursive writing.
+
+**Website:** [cursivefontgenerator.us](https://cursivefontgenerator.us/)
+
+### Resources
+
+[Free cursive font generator: type, copy and paste](https://cursivefontgenerator.us/)
+
+[Free printable cursive worksheet (PDF)](https://cursivefontgenerator.us/free-cursive-worksheet/)
+
+[How to write in cursive: beginner guide](https://cursivefontgenerator.us/how-to-write-in-cursive/)
+
+[How to write your name in cursive](https://cursivefontgenerator.us/how-to-write-your-name-in-cursive/)
+
+[Cursive fonts for Instagram](https://cursivefontgenerator.us/cursive-fonts-for-instagram/)
+
+[Best cursive fonts in Canva](https://cursivefontgenerator.us/cursive-fonts-in-canva/)
+
+[Gothic cursive font generator](https://cursivefontgenerator.us/gothic-cursive-font/)
+
+Pinterest: [@cursivefontwriting](https://www.pinterest.com/cursivefontwriting/)
 
 Here are some ideas to get you started:
 
