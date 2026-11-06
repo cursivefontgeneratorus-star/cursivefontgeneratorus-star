@@ -12,6 +12,8 @@ Free tools and guides for cursive writing.
 
 [Cursed text generator: Zalgo, glitch and evil text](https://cursivefontgenerator.us/cursed-text-generator/)
 
+[Cursive calligraphy generator: copy and paste calligraphy text](https://cursivefontgenerator.us/cursive-calligraphy/)
+
 [How to write in cursive: beginner guide](https://cursivefontgenerator.us/how-to-write-in-cursive/)
 
 [How to write your name in cursive](https://cursivefontgenerator.us/how-to-write-your-name-in-cursive/)
