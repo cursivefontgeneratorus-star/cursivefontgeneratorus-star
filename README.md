@@ -20,4 +20,6 @@ Free tools and guides for cursive writing.
 
 [Gothic cursive font generator](https://cursivefontgenerator.us/gothic-cursive-font/)
 
+[Italic cursive font generator (copy and paste)](https://cursivefontgenerator.us/italic/)
+
 Pinterest: [@cursivefontwriting](https://www.pinterest.com/cursivefontwriting/)
