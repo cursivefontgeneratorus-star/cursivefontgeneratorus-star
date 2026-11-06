@@ -10,6 +10,8 @@ Free tools and guides for cursive writing.
 
 [Free printable cursive worksheet (PDF)](https://cursivefontgenerator.us/free-cursive-worksheet/)
 
+[Cursed text generator: Zalgo, glitch and evil text](https://cursivefontgenerator.us/cursed-text-generator/)
+
 [How to write in cursive: beginner guide](https://cursivefontgenerator.us/how-to-write-in-cursive/)
 
 [How to write your name in cursive](https://cursivefontgenerator.us/how-to-write-your-name-in-cursive/)
